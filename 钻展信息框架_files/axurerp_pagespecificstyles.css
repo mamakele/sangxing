@@ -1,0 +1,578 @@
+body {
+    margin: 0px;
+    background-color: #F2F2F2;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_line {
+    background-image: url('../钻展信息框架_files/u0_line.png');
+}
+
+.u0_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:410px;
+    height:3px;
+}
+
+.u0 {
+    position:absolute;
+    left:200px;
+    top:450px;
+    width:410px;
+    height:10px;
+    
+}
+
+.u1_line {
+    background-image: url('../钻展信息框架_files/u1_line.png');
+}
+
+.u1_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:140px;
+    height:3px;
+}
+
+.u1 {
+    position:absolute;
+    left:200px;
+    top:260px;
+    width:140px;
+    height:10px;
+    
+}
+
+.u2_line {
+    background-image: url('../钻展信息框架_files/u2_line.png');
+}
+
+.u2_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:200px;
+}
+
+.u2 {
+    position:absolute;
+    left:328px;
+    top:165px;
+    width:10px;
+    height:200px;
+    
+}
+
+.u3 {
+    position:absolute;
+    left:350px;
+    top:30px;
+    width:400px;
+    height:47px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../钻展信息框架_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:60px;
+    top:240px;
+    width:140px;
+    height:50px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:56px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:136px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../钻展信息框架_files/u4_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:60px;
+    top:430px;
+    width:140px;
+    height:50px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:56px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:136px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../钻展信息框架_files/u4_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:60px;
+    top:505px;
+    width:140px;
+    height:50px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:56px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:136px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../钻展信息框架_files/u4_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:60px;
+    top:656px;
+    width:140px;
+    height:50px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:56px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:136px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../钻展信息框架_files/u4_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:60px;
+    top:730px;
+    width:140px;
+    height:50px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:56px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:136px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../钻展信息框架_files/u4_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:60px;
+    top:580px;
+    width:140px;
+    height:50px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:56px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:136px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../钻展信息框架_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:280px;
+    top:150px;
+    width:105px;
+    height:50px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:56px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:101px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../钻展信息框架_files/u16_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:280px;
+    top:240px;
+    width:105px;
+    height:50px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:56px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:101px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../钻展信息框架_files/u16_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:280px;
+    top:330px;
+    width:105px;
+    height:50px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:56px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:101px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../钻展信息框架_files/u16_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:280px;
+    top:430px;
+    width:105px;
+    height:50px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:56px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:101px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../钻展信息框架_files/u16_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:435px;
+    top:430px;
+    width:105px;
+    height:50px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:56px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:101px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../钻展信息框架_files/u16_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:575px;
+    top:430px;
+    width:105px;
+    height:50px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:56px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:101px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../钻展信息框架_files/u16_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:280px;
+    top:505px;
+    width:105px;
+    height:50px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:56px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:101px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../钻展信息框架_files/u16_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:280px;
+    top:580px;
+    width:105px;
+    height:50px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:56px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:101px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
